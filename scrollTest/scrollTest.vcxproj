@@ -24,6 +24,7 @@
     <ProjectGuid>{d3d837d7-8037-4ce9-813b-abcd7bc406bd}</ProjectGuid>
     <RootNamespace>scrollTest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>ScrollMaster</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
